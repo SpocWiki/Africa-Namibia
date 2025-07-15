@@ -134,10 +134,4 @@ Capital :: [[Windhoek]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Namibia|Namibia]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~South/Namibia.internal|Namibia.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~South/Namibia.protect|Namibia.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~South/Namibia.private|Namibia.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~South/Namibia.personal|Namibia.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~South/Namibia.secret|Namibia.secret]] 
+

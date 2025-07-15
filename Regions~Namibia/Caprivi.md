@@ -40,11 +40,18 @@ markerFolder: ./Caprivi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Caprivi|Caprivi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Caprivi.public|Caprivi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Caprivi.internal|Caprivi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Caprivi.protect|Caprivi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Caprivi.private|Caprivi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Caprivi.personal|Caprivi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Caprivi.secret|Caprivi.secret]] 
+
+### #is_/same_as :: [Caprivi](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Caprivi.md) 
+
+### #is_/same_as :: [Caprivi.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Caprivi.public.md) 
+
+### #is_/same_as :: [Caprivi.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Caprivi.internal.md) 
+
+### #is_/same_as :: [Caprivi.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Caprivi.protect.md) 
+
+### #is_/same_as :: [Caprivi.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Caprivi.private.md) 
+
+### #is_/same_as :: [Caprivi.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Caprivi.personal.md) 
+
+### #is_/same_as :: [Caprivi.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Caprivi.secret.md)
 

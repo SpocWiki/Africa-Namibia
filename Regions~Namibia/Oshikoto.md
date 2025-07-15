@@ -40,11 +40,18 @@ markerFolder: ./Oshikoto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Oshikoto|Oshikoto]] 
-- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Oshikoto.public|Oshikoto.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Oshikoto.internal|Oshikoto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Oshikoto.protect|Oshikoto.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Oshikoto.private|Oshikoto.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Oshikoto.personal|Oshikoto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Oshikoto.secret|Oshikoto.secret]] 
+
+### #is_/same_as :: [Oshikoto](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshikoto.md) 
+
+### #is_/same_as :: [Oshikoto.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshikoto.public.md) 
+
+### #is_/same_as :: [Oshikoto.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshikoto.internal.md) 
+
+### #is_/same_as :: [Oshikoto.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshikoto.protect.md) 
+
+### #is_/same_as :: [Oshikoto.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshikoto.private.md) 
+
+### #is_/same_as :: [Oshikoto.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshikoto.personal.md) 
+
+### #is_/same_as :: [Oshikoto.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshikoto.secret.md)
 

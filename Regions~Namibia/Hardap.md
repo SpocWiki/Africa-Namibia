@@ -40,11 +40,18 @@ markerFolder: ./Hardap/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Hardap|Hardap]] 
-- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Hardap.public|Hardap.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Hardap.internal|Hardap.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Hardap.protect|Hardap.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Hardap.private|Hardap.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Hardap.personal|Hardap.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Hardap.secret|Hardap.secret]] 
+
+### #is_/same_as :: [Hardap](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Hardap.md) 
+
+### #is_/same_as :: [Hardap.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Hardap.public.md) 
+
+### #is_/same_as :: [Hardap.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Hardap.internal.md) 
+
+### #is_/same_as :: [Hardap.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Hardap.protect.md) 
+
+### #is_/same_as :: [Hardap.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Hardap.private.md) 
+
+### #is_/same_as :: [Hardap.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Hardap.personal.md) 
+
+### #is_/same_as :: [Hardap.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Hardap.secret.md)
 

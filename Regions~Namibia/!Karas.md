@@ -40,11 +40,18 @@ markerFolder: ./Karas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Karas|Karas]] 
-- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Karas.public|Karas.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Karas.internal|Karas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Karas.protect|Karas.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Karas.private|Karas.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Karas.personal|Karas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Karas.secret|Karas.secret]] 
+
+### #is_/same_as :: [!Karas](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/!Karas.md) 
+
+### #is_/same_as :: [!Karas.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/!Karas.public.md) 
+
+### #is_/same_as :: [!Karas.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/!Karas.internal.md) 
+
+### #is_/same_as :: [!Karas.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/!Karas.protect.md) 
+
+### #is_/same_as :: [!Karas.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/!Karas.private.md) 
+
+### #is_/same_as :: [!Karas.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/!Karas.personal.md) 
+
+### #is_/same_as :: [!Karas.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/!Karas.secret.md)
 

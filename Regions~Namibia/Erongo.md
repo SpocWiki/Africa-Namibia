@@ -40,11 +40,18 @@ markerFolder: ./Erongo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Erongo|Erongo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Erongo.public|Erongo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Erongo.internal|Erongo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Erongo.protect|Erongo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Erongo.private|Erongo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Erongo.personal|Erongo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Erongo.secret|Erongo.secret]] 
+
+### #is_/same_as :: [Erongo](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Erongo.md) 
+
+### #is_/same_as :: [Erongo.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Erongo.public.md) 
+
+### #is_/same_as :: [Erongo.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Erongo.internal.md) 
+
+### #is_/same_as :: [Erongo.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Erongo.protect.md) 
+
+### #is_/same_as :: [Erongo.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Erongo.private.md) 
+
+### #is_/same_as :: [Erongo.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Erongo.personal.md) 
+
+### #is_/same_as :: [Erongo.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Erongo.secret.md)
 

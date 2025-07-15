@@ -40,11 +40,18 @@ markerFolder: ./Otjozondjupa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Otjozondjupa|Otjozondjupa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.public|Otjozondjupa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.internal|Otjozondjupa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.protect|Otjozondjupa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.private|Otjozondjupa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.personal|Otjozondjupa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Otjozondjupa.secret|Otjozondjupa.secret]] 
+
+### #is_/same_as :: [Otjozondjupa](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Otjozondjupa.md) 
+
+### #is_/same_as :: [Otjozondjupa.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Otjozondjupa.public.md) 
+
+### #is_/same_as :: [Otjozondjupa.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Otjozondjupa.internal.md) 
+
+### #is_/same_as :: [Otjozondjupa.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Otjozondjupa.protect.md) 
+
+### #is_/same_as :: [Otjozondjupa.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Otjozondjupa.private.md) 
+
+### #is_/same_as :: [Otjozondjupa.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Otjozondjupa.personal.md) 
+
+### #is_/same_as :: [Otjozondjupa.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Otjozondjupa.secret.md)
 

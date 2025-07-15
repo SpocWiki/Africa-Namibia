@@ -40,11 +40,18 @@ markerFolder: ./Ohangwena/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Namibia/Counties/Ohangwena|Ohangwena]] 
-- [[../../../../../../_public/geo/Continent/Africa/Namibia/Counties/Ohangwena.public|Ohangwena.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Namibia/Counties/Ohangwena.internal|Ohangwena.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Namibia/Counties/Ohangwena.protect|Ohangwena.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Namibia/Counties/Ohangwena.private|Ohangwena.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Namibia/Counties/Ohangwena.personal|Ohangwena.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Namibia/Counties/Ohangwena.secret|Ohangwena.secret]] 
+
+### #is_/same_as :: [Ohangwena](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Ohangwena.md) 
+
+### #is_/same_as :: [Ohangwena.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Ohangwena.public.md) 
+
+### #is_/same_as :: [Ohangwena.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Ohangwena.internal.md) 
+
+### #is_/same_as :: [Ohangwena.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Ohangwena.protect.md) 
+
+### #is_/same_as :: [Ohangwena.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Ohangwena.private.md) 
+
+### #is_/same_as :: [Ohangwena.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Ohangwena.personal.md) 
+
+### #is_/same_as :: [Ohangwena.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Ohangwena.secret.md)
 
