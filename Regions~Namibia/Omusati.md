@@ -40,17 +40,17 @@ markerFolder: ./Omusati/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Omusati](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati|Omusati]] 
 
-### #is_/same_as :: [Omusati.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.public|Omusati.public]] 
 
-### #is_/same_as :: [Omusati.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.internal|Omusati.internal]] 
 
-### #is_/same_as :: [Omusati.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.protect|Omusati.protect]] 
 
-### #is_/same_as :: [Omusati.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.private|Omusati.private]] 
 
-### #is_/same_as :: [Omusati.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.personal|Omusati.personal]] 
 
-### #is_/same_as :: [Omusati.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omusati.secret|Omusati.secret]] 
 

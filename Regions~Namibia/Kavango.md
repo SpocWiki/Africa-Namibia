@@ -40,17 +40,17 @@ markerFolder: ./Kavango/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kavango](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango|Kavango]] 
 
-### #is_/same_as :: [Kavango.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.public|Kavango.public]] 
 
-### #is_/same_as :: [Kavango.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.internal|Kavango.internal]] 
 
-### #is_/same_as :: [Kavango.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.protect|Kavango.protect]] 
 
-### #is_/same_as :: [Kavango.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.private|Kavango.private]] 
 
-### #is_/same_as :: [Kavango.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.personal|Kavango.personal]] 
 
-### #is_/same_as :: [Kavango.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kavango.secret|Kavango.secret]] 
 

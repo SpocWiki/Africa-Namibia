@@ -121,19 +121,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Windhoek)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Windhoek](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek|Windhoek]] 
 
-### #is_/same_as :: [Windhoek.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.public|Windhoek.public]] 
 
-### #is_/same_as :: [Windhoek.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.internal|Windhoek.internal]] 
 
-### #is_/same_as :: [Windhoek.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.protect|Windhoek.protect]] 
 
-### #is_/same_as :: [Windhoek.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.private|Windhoek.private]] 
 
-### #is_/same_as :: [Windhoek.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.personal|Windhoek.personal]] 
 
-### #is_/same_as :: [Windhoek.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas/City/Windhoek.secret|Windhoek.secret]] 
 

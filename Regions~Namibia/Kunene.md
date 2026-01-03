@@ -40,17 +40,17 @@ markerFolder: ./Kunene/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kunene](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene|Kunene]] 
 
-### #is_/same_as :: [Kunene.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.public|Kunene.public]] 
 
-### #is_/same_as :: [Kunene.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.internal|Kunene.internal]] 
 
-### #is_/same_as :: [Kunene.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.protect|Kunene.protect]] 
 
-### #is_/same_as :: [Kunene.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.private|Kunene.private]] 
 
-### #is_/same_as :: [Kunene.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.personal|Kunene.personal]] 
 
-### #is_/same_as :: [Kunene.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Kunene.secret|Kunene.secret]] 
 

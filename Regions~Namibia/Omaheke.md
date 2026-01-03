@@ -40,17 +40,17 @@ markerFolder: ./Omaheke/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Omaheke](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke|Omaheke]] 
 
-### #is_/same_as :: [Omaheke.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.public|Omaheke.public]] 
 
-### #is_/same_as :: [Omaheke.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.internal|Omaheke.internal]] 
 
-### #is_/same_as :: [Omaheke.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.protect|Omaheke.protect]] 
 
-### #is_/same_as :: [Omaheke.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.private|Omaheke.private]] 
 
-### #is_/same_as :: [Omaheke.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.personal|Omaheke.personal]] 
 
-### #is_/same_as :: [Omaheke.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Omaheke.secret|Omaheke.secret]] 
 

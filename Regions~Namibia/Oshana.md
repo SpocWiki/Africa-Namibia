@@ -40,17 +40,17 @@ markerFolder: ./Oshana/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oshana](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana|Oshana]] 
 
-### #is_/same_as :: [Oshana.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.public|Oshana.public]] 
 
-### #is_/same_as :: [Oshana.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.internal|Oshana.internal]] 
 
-### #is_/same_as :: [Oshana.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.protect|Oshana.protect]] 
 
-### #is_/same_as :: [Oshana.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.private|Oshana.private]] 
 
-### #is_/same_as :: [Oshana.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.personal|Oshana.personal]] 
 
-### #is_/same_as :: [Oshana.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Oshana.secret|Oshana.secret]] 
 

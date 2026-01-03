@@ -40,17 +40,17 @@ markerFolder: ./Khomas/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khomas](/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas|Khomas]] 
 
-### #is_/same_as :: [Khomas.public](/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.public|Khomas.public]] 
 
-### #is_/same_as :: [Khomas.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.internal|Khomas.internal]] 
 
-### #is_/same_as :: [Khomas.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.protect|Khomas.protect]] 
 
-### #is_/same_as :: [Khomas.private](/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.private|Khomas.private]] 
 
-### #is_/same_as :: [Khomas.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.personal|Khomas.personal]] 
 
-### #is_/same_as :: [Khomas.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Namibia/Regions~Namibia/Khomas.secret|Khomas.secret]] 
 
