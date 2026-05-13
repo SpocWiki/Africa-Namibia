@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Erongo/
 markerFolder: ./Erongo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

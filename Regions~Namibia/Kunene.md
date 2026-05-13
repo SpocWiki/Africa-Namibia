@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kunene/
 markerFolder: ./Kunene/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -119,7 +119,7 @@ maxZoom: 18
 >
 > The city developed at the site of a permanent hot spring known to the local pastoral tribes. It developed rapidly after Jonker Afrikaner, Captain of the Orlam, settled there in 1840 and built a stone church for his community. In the decades following, multiple wars and armed hostilities resulted in the neglect and destruction of the new settlement. Windhoek was founded a second time in 1890 by Imperial German Army Major Curt von François, when the territory was colonised by the German Empire.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Windhoek)
+> [Wikipedia](https://en.wikipedia.org/wiki/Windhoek) 
 
 
 ## Confidential Links & Embeds: 

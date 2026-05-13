@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ohangwena/
 markerFolder: ./Ohangwena/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
